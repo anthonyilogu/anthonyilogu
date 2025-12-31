@@ -3,11 +3,11 @@
 
 I am an MSc Cyber Security student in the United Kingdom with a strong background in computer engineering and over ten years of hands-on experience in IT support and systems operations. My professional journey has involved supporting enterprise environments, troubleshooting complex technical issues, and maintaining reliable and secure IT infrastructures.
 
-My current academic and practical focus is on network security, threat analysis, and secure systems design. Through this GitHub profile, I document hands-on labs, security experiments, and projects involving Python, networking, and security operations. The repositories here reflect my commitment to applying theory to real-world security challenges and continuously developing industry-relevant skills.
+My current academic and practical focus is on network security, threat analysis, and the design of secure systems. Through this GitHub profile, I document hands-on labs, security experiments, and projects involving Python, networking, and security operations. The repositories here reflect my commitment to applying theory to real-world security challenges and continuously developing industry-relevant skills.
 
 ## Objective
 
-To pursue a SOC Analyst role, leveraging extensive IT support experience and cyber security training to monitor, detect, and respond to security threats in enterprise environments.
+To pursue a SOC Analyst role, leveraging extensive IT support experience and cybersecurity training to monitor, detect, and respond to security threats in enterprise environments.
 
 ## Skills
 
